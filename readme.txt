@@ -3,4 +3,3 @@ Git is free software
 Hello World
 wangyun
 Git has a mutable index called stage
-My boss is stupid still prefers SVN
